@@ -1,0 +1,13 @@
+{
+  "routes": {
+    "/": {},
+    "/about": {},
+    "/contact": {},
+    "/dashboard": {},
+    "/edit": {},
+    "/feature": {},
+    "/home": {},
+    "/login": {},
+    "/new": {}
+  }
+}

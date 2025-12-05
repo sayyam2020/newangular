@@ -1,0 +1,1 @@
+import{Gb as e,Ha as i,O as t}from"./chunk-XIRTAUDG.js";var r=class o{static \u0275fac=function(m){return new(m||o)};static \u0275mod=i({type:o});static \u0275inj=t({imports:[e]})};export{r as NewModule};
